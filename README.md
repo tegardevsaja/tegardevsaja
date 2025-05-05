@@ -1,6 +1,7 @@
-## Halo semuanya 👋, gue Tegar Kurniawan
+![Header](./asset/github-header-image.png)
+<!-- ## Halo semuanya 👋, gue Tegar Kurniawan
 
-🧑‍💻 Web Developer | UI/UX Enthusiast | 3D & Multimedia Creator
+🧑‍💻 Web Developer | UI/UX Desain | 3D & Multimedia Creator -->
 
 ---
 
