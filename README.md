@@ -1,6 +1,6 @@
 <!-- VIDEO BANNER DI ATAS -->
 <p align="center">
-  <img src="./asset/banner.gif" alt="Banner GIF" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/tegardevsaja/tegardevsaja@main/asset/banner.gif" width="100%" alt="GitHub Banner" />
 </p>
 
 ---
