@@ -13,7 +13,7 @@
     </td>
     <td width="70%" valign="middle">
       <h3>😄 WEE MBA MESI ULTAH 😆</h3>
-      <p><em>“HABEDE CALON SUAMI MAS DAPA, SUKSES TRS KEDEPANNYA MBA, PANJANG PANAJANG ORANG BAIK UMUR (PANJANG UMUR ORANG BAIK). ”</em></p>
+      <p><em>“HABEDE CALON SUAMI MAS DAPA, SUKSES TRS KEDEPANNYA MBA, PANJANG PANAJANG ORANG BAIK UMUR (PANJANG UMUR ORANG BAIK). sukses dunia akhirat, semoga tuhan selalu ada dimana anda berada. terimakasih, happy birthday mbaa mesi”</em></p>
     </td>
   </tr>
 </table>
@@ -29,7 +29,14 @@
 
 Gue Tegar, seorang **web developer** yang doyan ngulik dari **backend**, **frontend**, sampe urusan **desain UI/UX**. Tapi gak cuma itu aja, gue juga suka ngulik **Blender buat 3D-an**, edit video di **Premiere & After Effects**, bahkan kadang ngedesain vector atau foto editan di **Photoshop & Illustrator**.
 
-Intinya, gue seneng ngegabungin **teknologi + seni visual** jadi karya digital yang fungsional tapi tetep keren dilihat 👨‍🎨✨
+**HOBI GUEE**
+- Nonton Konser
+- Jalan Jalan
+- Ngoding dongg
+
+Intinya, gue seneng ngegabungin **teknologi + seni visual** jadi karya digital yang fungsional tapi tetep keren dilihat 👨‍🎨✨ 
+
+**gue lebih suka merenung sendirian, fokus karir masa depan, gak pacaran, (karena w biasa ajahh huhuhuhuh sedihhh nyeee) dan yap gua paling suka bantuin orang yang perlu bantuan gua asal dia minta dengan cara yang tulus dan berterimakasih dengan cara yang baik, aku selalu menghargai kalian walaupun kalian ga menghargai gua, gua fine fine ajahhh. terimakasih**
 
 </td>
     <td width="40%">
