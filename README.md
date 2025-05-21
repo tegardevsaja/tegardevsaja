@@ -1,10 +1,29 @@
-![Header](./asset/github-header-image.png)
-<!-- ## Halo semuanya 👋, gue Tegar Kurniawan
-
-🧑‍💻 Web Developer | UI/UX Desain | 3D & Multimedia Creator -->
+<!-- VIDEO BANNER DI ATAS -->
+<p align="center">
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="https://user-images.githubusercontent.com/your-username/your-custom-banner.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
+<!-- FOTO + KATA-KATA LUCU -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="100%" alt="Foto Profil" style="border-radius: 10px;" />
+    </td>
+    <td width="70%" valign="middle">
+      <h3>😄 WEE MBA MESI ULTAH 😆</h3>
+      <p><em>“HABEDE CALON SUAMI MAS DAPA, SUKSES TRS KEDEPANNYA MBA, PANJANG PANAJANG ORANG BAIK UMUR (PANJANG UMUR ORANG BAIK). ”</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- TENTANG GUE -->
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -58,6 +77,11 @@ Intinya, gue seneng ngegabungin **teknologi + seni visual** jadi karya digital y
 
 Gue bisa pindah dari ngoding logic backend, ke ngedesain landing page, sampe bikin animasi atau 3D model. Multi-style? Iya, tapi tetep enjoy 😎
 
+> Coding boleh serius, tapi ngenalin diri jangan terlalu kaku dong 😁
+
 ---
 
-> Coding boleh serius, tapi ngenalin diri jangan terlalu kaku dong 😁 
+<!-- BANNER LAMA DIPERKECIL DI BAWAH -->
+<p align="center">
+  <img src="./asset/github-header-image.png" width="50%" alt="GitHub Header Image" />
+</p>
