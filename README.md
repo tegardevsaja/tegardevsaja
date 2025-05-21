@@ -1,11 +1,7 @@
 <!-- VIDEO BANNER DI ATAS -->
 <p align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="./asset/banner.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="./asset/banner.gif" alt="Banner GIF" width="100%" />
 </p>
-
 
 ---
 
