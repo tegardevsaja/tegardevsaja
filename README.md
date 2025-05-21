@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="100%" alt="Foto Profil" style="border-radius: 10px;" />
+      <img src="./asset/foto.png" width="100%" alt="Foto Profil" style="border-radius: 10px;" />
     </td>
     <td width="70%" valign="middle">
       <h3>😄 WEE MBA MESI ULTAH 😆</h3>
