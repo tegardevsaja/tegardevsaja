@@ -1,7 +1,7 @@
 <!-- VIDEO BANNER DI ATAS -->
 <p align="center">
   <video width="100%" autoplay loop muted playsinline>
-    <source src="https://user-images.githubusercontent.com/your-username/your-custom-banner.mp4" type="video/mp4">
+    <source src="./asset/banner.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
