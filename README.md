@@ -1,5 +1,7 @@
 <!-- VIDEO BANNER DI ATAS -->
-
+<p align="center">
+  <img src="./asset/github-header-image.png" width="50%" alt="GitHub Header Image" />
+</p>
 
 <!-- FOTO + KATA-KATA LUCU -->
 
@@ -71,6 +73,4 @@ Gue bisa pindah dari ngoding logic backend, ke ngedesain landing page, sampe bik
 ---
 
 <!-- BANNER LAMA DIPERKECIL DI BAWAH -->
-<p align="center">
-  <img src="./asset/github-header-image.png" width="50%" alt="GitHub Header Image" />
-</p>
+
