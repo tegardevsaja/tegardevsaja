@@ -1,22 +1,7 @@
 <!-- VIDEO BANNER DI ATAS -->
-<p align="center">
-  <img src="./asset/banner.gif" width="100%" alt="GitHub Banner" />
-</p>
 
----
 
 <!-- FOTO + KATA-KATA LUCU -->
-<table>
-  <tr>
-    <td width="30%">
-      <img src="./asset/foto.png" width="100%" alt="Foto Profil" style="border-radius: 10px;" />
-    </td>
-    <td width="70%" valign="middle">
-      <h3>😄 WEE MBA MESI ULTAH 😆</h3>
-      <p><em>“HABEDE CALON SUAMI MAS DAPA, SUKSES TRS KEDEPANNYA MBA, PANJANG PANAJANG ORANG BAIK UMUR (PANJANG UMUR ORANG BAIK). sukses dunia akhirat, semoga tuhan selalu ada dimana anda berada. terimakasih, happy birthday mbaa mesi”</em></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
